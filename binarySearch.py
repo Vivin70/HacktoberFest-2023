@@ -1,9 +1,4 @@
-# Python3 code to implement iterative Binary
-# Search.
-
-
-# It returns location of x in given array arr
-def binarySearch(arr, l, r, x):
+'''def binarySearch(arr, l, r, x):
 
 	while l <= r:
 
@@ -37,3 +32,7 @@ if __name__ == '__main__':
 		print("Element is present at index", result)
 	else:
 		print("Element is not present in array")
+
+
+
+'''	
